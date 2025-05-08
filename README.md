@@ -1,2 +1,2 @@
 # find-it
-find your stuff
+find your stuff with our cool tech!
